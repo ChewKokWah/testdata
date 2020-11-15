@@ -1,7 +1,7 @@
 # Test data
 Test inputs for the EfficientQA task.
 
-To make a submissions to the EfficientQA unrestricted track, create a predictions file named `predictions.json` with the following format and send it to `efficientqa@googlegroups.com` before the end of 2020/11/17 (anywhere on earth).
+To make a submissions to the EfficientQA unrestricted track, create a predictions file named `predictions.jsonl` with one item per line, as below. Then send it to `efficientqa@googlegroups.com` before the end of 2020/11/17 (anywhere on earth).
 
 ```
 {"question": "who won the women's australian open 2018", "prediction": "Caroline Wozniacki"}
